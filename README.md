@@ -2,7 +2,7 @@
 
 Ce dépôt contient plusieurs projets liés à la gestion des bases de données, couvrant à la fois des systèmes SQL et NoSQL. 
 Chaque projet est conçu pour résoudre des problèmes spécifiques en matière de gestion des données.
-### 1. Gestion des Ressources Humaines avec SQL
+### 1. Système Informations RH-SQL avec SQL
 Ce projet implémente un système de gestion des ressources humaines (RH) en SQL. Il permet de suivre les employés, leurs performances, leurs heures de travail, et les projets auxquels ils participent. Les différentes entités, comme les employés, les départements, les projets et les tâches, sont gérées via des tables interconnectées.
 
 #### Technologies utilisées :
@@ -51,7 +51,7 @@ Le jeu de données utilisé est le dataset "Online Retail" provenant de l'[UCI M
 - Détection des tendances saisonnières dans les ventes.
 
 
-### 3 Système de Réservation d'Hôtel (Hotel Reservation System) avec MongoDB
+### 3 Statistiques Reservations Hôtel avec MongoDB
 
 Ce projet implémente un système de gestion des réservations d'hôtel à l'aide de **MongoDB**. Il permet de suivre les réservations des clients, d'analyser les tendances et d'optimiser les performances grâce à des index et des agrégations sur les données des réservations.
 
