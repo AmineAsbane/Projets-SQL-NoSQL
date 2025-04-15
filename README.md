@@ -50,7 +50,7 @@ Le jeu de données utilisé est le dataset "Online Retail" provenant de l'[UCI M
 - Analyse du comportement des clients (fréquence d'achat, panier moyen).
 - Détection des tendances saisonnières dans les ventes.
 
-- 
+
 ### 3 Système de Réservation d'Hôtel (Hotel Reservation System) avec MongoDB
 
 Ce projet implémente un système de gestion des réservations d'hôtel à l'aide de **MongoDB**. Il permet de suivre les réservations des clients, d'analyser les tendances et d'optimiser les performances grâce à des index et des agrégations sur les données des réservations.
