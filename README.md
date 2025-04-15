@@ -37,14 +37,14 @@ Ce projet implémente un système de gestion des ressources humaines (RH) en SQL
 - Fournir des outils d'analyse pour les managers et les responsables RH afin de prendre des décisions éclairées.
 - Simplifier le suivi des employés, des projets et des performances au sein de l'entreprise.
   
-# 2. Analyse des Ventes d'une Boutique en Ligne avec SQL
+### 2. Analyse des Ventes d'une Boutique en Ligne avec SQL
 
 Ce projet consiste à modéliser et analyser les ventes d'une boutique en ligne. Il permet de manipuler des données complexes et d'appliquer des requêtes SQL avancées.
 Le jeu de données utilisé est le dataset "Online Retail" provenant de l'[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail).
-## Technologies utilisées :
+#### Technologies utilisées :
 - MySQL
 - SQL
-## Fonctionnalités :
+#### Fonctionnalités :
 - Analyse des ventes par pays.
 - Identification des produits les plus vendus.
 - Analyse du comportement des clients (fréquence d'achat, panier moyen).
